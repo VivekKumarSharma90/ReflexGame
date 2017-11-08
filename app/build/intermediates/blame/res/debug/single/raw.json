@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/res/merged/debug/raw/whoosh.mp3",
+        "source": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/raw/whoosh.mp3"
+    },
+    {
+        "merged": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/res/merged/debug/raw/spaz.mp3",
+        "source": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/raw/spaz.mp3"
+    },
+    {
+        "merged": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/res/merged/debug/raw/swipe_sound.mp3",
+        "source": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/raw/swipe_sound.mp3"
+    },
+    {
+        "merged": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/res/merged/debug/raw/wetsplat2.mp3",
+        "source": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/raw/wetsplat2.mp3"
+    },
+    {
+        "merged": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/res/merged/debug/raw/wetsplat.mp3",
+        "source": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/raw/wetsplat.mp3"
+    },
+    {
+        "merged": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/res/merged/debug/raw/combo.mp3",
+        "source": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/raw/combo.mp3"
+    },
+    {
+        "merged": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/res/merged/debug/raw/aww.mp3",
+        "source": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/raw/aww.mp3"
+    },
+    {
+        "merged": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/res/merged/debug/raw/combo2.mp3",
+        "source": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/raw/combo2.mp3"
+    },
+    {
+        "merged": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/res/merged/debug/raw/person_cheering.mp3",
+        "source": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/raw/person_cheering.mp3"
+    },
+    {
+        "merged": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/res/merged/debug/raw/splat.mp3",
+        "source": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/raw/splat.mp3"
+    },
+    {
+        "merged": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/res/merged/debug/raw/aww2.mp3",
+        "source": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/raw/aww2.mp3"
+    }
+]

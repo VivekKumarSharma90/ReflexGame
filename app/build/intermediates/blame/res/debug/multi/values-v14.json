@@ -1,0 +1,152 @@
+[
+    {
+        "outputFile": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 70,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endColumn": 82,
+                    "endOffset": 761
+                },
+                "from": {
+                    "file": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 766,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1171
+                },
+                "from": {
+                    "file": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1176,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1593
+                },
+                "from": {
+                    "file": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1598,
+                    "endColumn": 119,
+                    "endOffset": 1713
+                },
+                "from": {
+                    "file": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1718,
+                    "endColumn": 62,
+                    "endOffset": 1776
+                },
+                "from": {
+                    "file": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1781,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1930
+                },
+                "from": {
+                    "file": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1935,
+                    "endColumn": 62,
+                    "endOffset": 1993
+                },
+                "from": {
+                    "file": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1998,
+                    "endColumn": 131,
+                    "endOffset": 2125
+                },
+                "from": {
+                    "file": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml"
+                }
+            }
+        ]
+    }
+]

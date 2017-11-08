@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/android2/Android game source code/working/ReflexGame/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_search.png",
+        "source": "/home/android2/Android game source code/working/ReflexGame/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    }
+]
